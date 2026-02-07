@@ -10,6 +10,11 @@ Download the required datasets CIFAR-10, CIFAR-100, and Tiny-ImageNet-200 into t
 
 For the generative model used by GIFD, download it into the biggan-deep-256 directory, including pytorch_model.bin and config.json.
 
+## GIFD
+
+The code related to GIFD in this project is stored in the `GIFD_Gradient_Inversion_Attack` directory and is adopted from the following repository:
+
+https://github.com/ffhibnese/GIFD_Gradient_Inversion_Attack
 ## Run
 For convergence analysis, run the following command.
 
